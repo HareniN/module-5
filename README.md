@@ -10,8 +10,10 @@ To write a C Program to find area of rectangle using pointer.
 5.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 052228](https://github.com/user-attachments/assets/82dccb4d-a5ab-48e9-bf48-4ac62edb0893)
 
 ## OUTPUT
+![Screenshot 2025-04-26 052409](https://github.com/user-attachments/assets/d9116202-47aa-481a-bb68-586d75f9e986)
 		       	
 
 
@@ -34,15 +36,16 @@ To write a C Program to print 'WELCOME' using malloc() and free().
 6.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 052924](https://github.com/user-attachments/assets/fedb96e5-5163-42be-a956-92c6a6d5ba1e)
 
 ## OUTPUT
+![Screenshot 2025-04-26 052929](https://github.com/user-attachments/assets/cbdb1209-839b-4855-b1eb-3c4e2708937a)
 
 
 
 ## RESULT
 Thus the program to print 'WELCOME' using malloc() and free() has been executed successfully
  
-.
 
 
 
@@ -60,9 +63,11 @@ To write a C Program to store the student information and display it using struc
 4.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 053537](https://github.com/user-attachments/assets/9055af8e-27a2-4c9f-bf19-ad3e65b37892)
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/fe32fd3b-e045-42f8-a440-5032f9cc2008)
 
 
 ## RESULT
@@ -87,11 +92,13 @@ To write a C Program to read and store the data of 3 employees and calculate the
 5.	Stop the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 055620](https://github.com/user-attachments/assets/e5620a29-5eeb-4e78-9ef1-7a69ad112332)
 
 
  ## OUTPUT
+![Screenshot 2025-04-26 055719](https://github.com/user-attachments/assets/5c7cc029-40a1-4fcb-b958-0c888491f37a)
 
- 
+![Screenshot 2025-04-26 055903](https://github.com/user-attachments/assets/6d015d8f-f7e8-41f1-94a6-e5c52b647309)
 
 ## RESULT
 
@@ -134,9 +141,13 @@ Step 7: Output Loop (i = 0 to 1):
 Step 8: End the program.
 
 ## PROGRAM
+![Screenshot 2025-04-26 061127](https://github.com/user-attachments/assets/e3cb4b86-6ebf-4293-80fc-534ce4e27504)
 
 
 ## OUTPUT
+![Screenshot 2025-04-26 061134](https://github.com/user-attachments/assets/3dcf2871-4f4e-496e-a631-8eec1b8c7c9f)
+![Screenshot 2025-04-26 061144](https://github.com/user-attachments/assets/31787628-d2ab-4659-8217-103d733155b2)
+![Screenshot 2025-04-26 061337](https://github.com/user-attachments/assets/917bbbfc-c237-4516-9221-acea388d34fb)
 
  
 
